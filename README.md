@@ -39,9 +39,7 @@ I'm a cybersecurity enthusiast and ethical hacker—I build tools for networking
 
 ##  Support My Work
 
-**BTC:** `bc1qg8747cq9rwznnhpxp6zsxgyalvtjyjpjrqqqzg`
-
-[![Donate with Bitcoin](https://img.shields.io/badge/Donate-BTC-orange?logo=bitcoin&style=for-the-badge)](bitcoin:bc1qg8747cq9rwznnhpxp6zsxgyalvtjyjpjrqqqzg)
+[![Donate with Bitcoin](https://img.shields.io/badge/Donate-BTC-orange?logo=bitcoin&style=for-the-badge)](bitcoin:bc1qg8747cq9rwznnhpxp6zsxgyalvtjyjpjrqqqzg) `bc1qg8747cq9rwznnhpxp6zsxgyalvtjyjpjrqqqzg`
 
 ---
 
