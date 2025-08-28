@@ -6,12 +6,7 @@ I'm a cybersecurity enthusiast and ethical hacker. I create tools and scripts to
 
 ## 💻 Languages & Technologies I Use
 
-[![HTML5]([https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML](https://www.w3.org/html/))  
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)  
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)](https://en.cppreference.com/w/c)  
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)](https://www.gnu.org/software/bash/)  
-[![Batch](https://img.shields.io/badge/Batch-F8C300?logo=windows&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/Batch_file)
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png) ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CSS3_logo.svg/512px-CSS3_logo.svg.png) ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/512px-Python-logo-notext.svg.png) ![C](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/C_logo.svg/512px-C_logo.svg.png) ![Bash](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png) ![Batch](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png)
 
 ---
 
