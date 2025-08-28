@@ -33,8 +33,7 @@ I'm a cybersecurity enthusiast and ethical hacker—I build tools for networking
 
 - Build cybersecurity tools and scripts for ethical hacking  
 - Develop Batch files for networking, automation, and system tasks  
-- Write Python tools for pen-testing, data handling, and utilities  
-- Share practical knowledge to help others learn ethical hacking
+- Write Python tools for pen-testing and utilities  
 
 ---
 
