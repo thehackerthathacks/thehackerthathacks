@@ -4,6 +4,8 @@ I'm a cybersecurity enthusiast and ethical hacker—I build tools for networking
 
 ---
 
+![Stats](https://github-readme-stats.vercel.app/api?username=thehackerthathacks&show_icons=true&theme=nord&hide_title=true&hide_rank=true)<!-- -->![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehackerthathacks&layout=compact&theme=nord)
+
 ##  Languages & Technologies I Understand
 
 <p align="center">
